@@ -1,0 +1,12 @@
+#!/usr/bin/bash
+
+sudo us
+
+
+pip install pandas
+
+
+sudo cp -r notlar /usr/bin/notlar
+sudo cp -r belgeler /usr/bin/belgeler
+
+echo "Yükleme işlemi tamamlandı. Execute notlar in your terminal"
