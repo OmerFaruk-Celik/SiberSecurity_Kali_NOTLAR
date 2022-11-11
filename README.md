@@ -9,6 +9,9 @@ gerekli kütüphaneler:
   -os
 
 kurulum için:
-
+sudo su
+git clone https://github.com/poorengineer/SiberSecurity_Kali_NOTLAR.git
+cd SiberSecurity_Kali_NOTLAR
+cd NOTLAR
 ./INSTALL
 
