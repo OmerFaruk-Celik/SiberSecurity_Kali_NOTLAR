@@ -1,2 +1,0 @@
-sudo modprobe -r uvcvideo  ##webcam devre dışı bırakma
-sudo modprobe uvcvideo     ##webcam aktif etme
