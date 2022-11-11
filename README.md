@@ -7,3 +7,8 @@ gerekli kütüphaneler:
 -python3
   -pandas
   -os
+
+kurulum için:
+
+./INSTALL
+
