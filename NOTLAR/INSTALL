@@ -1,8 +1,10 @@
 #!/usr/bin/bash
 
-sudo us
+sudo su
 
 
+sudo apt-get install python3
+sudo apt-get install pip 
 pip install pandas
 
 
