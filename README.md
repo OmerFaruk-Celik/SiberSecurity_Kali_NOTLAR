@@ -21,5 +21,7 @@ cd SiberSecurity_Kali_NOTLAR
 
 cd NOTLAR
 
+chmod +x INSTALL
+
 ./INSTALL
 
