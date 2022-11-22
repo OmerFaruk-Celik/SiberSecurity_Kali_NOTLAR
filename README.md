@@ -15,8 +15,6 @@ Gerekli Kütüphaneler:
 Kurulum İçin:
 
 
-sudo su
-
 git clone https://github.com/poorengineer/SiberSecurity_Kali_NOTLAR.git
 
 cd SiberSecurity_Kali_NOTLAR
