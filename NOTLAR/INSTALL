@@ -1,8 +1,8 @@
 #!/usr/bin/bash
 
-sudo su
 
 
+chmod 777 *
 sudo apt-get install python3
 sudo apt-get install pip 
 pip install pandas
